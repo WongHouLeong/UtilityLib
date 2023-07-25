@@ -27,6 +27,9 @@
     <ClCompile Include="EnCodeLib.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Net.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="UtilityLib.h">

@@ -81,6 +81,7 @@
     <ClCompile Include="EnCodeLib.cpp" />
     <ClCompile Include="HookLib.cpp" />
     <ClCompile Include="MemoryLib.cpp" />
+    <ClCompile Include="Net.cpp" />
     <ClCompile Include="StringLib.cpp" />
   </ItemGroup>
   <ItemGroup>
